@@ -11,18 +11,25 @@ Hi! 👋 I'm currently learning **C programming** and preparing for my exams. Th
 ✔ Control Statements (If-Else, Loops, Switch)  
 ✔ Functions & Recursion  
 ✔ Arrays & Pointers  
-✔ Structures & File Handling  
+✔ Structures & File Handling
+
+---
 
 ## 🎯 **My Exam Preparation Focus**  
 - Understanding C programming fundamentals  
 - Practicing problem-solving using C  
 - Learning memory management (pointers, malloc, free)  
-- Writing optimized code  
+- Writing optimized code .
+
+--- 
 
 ## 🔧 **Setup & Run C Programs**  
 1. Install a C compiler (GCC recommended)  
    - Windows: Install [MinGW](https://www.mingw-w64.org/)  
-   - Linux/macOS: Install GCC using `sudo apt install gcc`  
+   - Linux/macOS: Install GCC using `sudo apt install gcc`
+  
+     ---
+      
 2. Clone this repository:  
    ```sh
    git clone https://github.com/your-username/c-learning.git
